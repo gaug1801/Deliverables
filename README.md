@@ -3,19 +3,6 @@ A set of programming assignments to gain experience in algorithms and data struc
 
 Deliverables is a program that reads in data from a text file to create a bidirectional node graph. 
 
-Example graph in text:
-~       val   A   B   C   D   E
-
-Alpha     ~   ~   3   2   ~   5
-
-Bravo     S   4   ~   5   3   ~
-
-Charlie   ~   9   ~   ~   ~   ~
-
-Delta     ~   6   ~   5   ~   1
-
-Echo      G   ~   6   4   2   ~
-
 Code written by me is within the DelivA.java, DelivB.java, DelivC.java, and DelivD.java files.
 
 DelivA calculates the number of node, the number of edges, the node(s) with the most outgoing edges, and the edge(s) with the highest and lowest distance.
