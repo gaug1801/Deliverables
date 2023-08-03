@@ -15,8 +15,10 @@ HOW TO RUN (the steps are a bit different for DelivD):
 Run the program. A small window will appear.
 
 Select "Read File" and select a node graph from the file browser.
+  The files provided are named "F2.txt" or along those lines.
 
 Select "Run Code" and select the desired Deliverable to run.
+  Select the deliverable you would like to run.
 
 Results print to the output on the compiler.
 
@@ -28,7 +30,8 @@ Select "Read File" and select a node graph from the file browser.
 
 Select "Read Heuristic" and select the heuristic graph that matches the graph above.
 
-Select "Run Code" and select the desired Deliverable to run.
+Select "Run Code" and select the desired Deliverable to run
+  Select Deliverable D.
 
 Results print to the output on the compiler.
 
