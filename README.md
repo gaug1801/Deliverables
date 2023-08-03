@@ -11,7 +11,7 @@ Charlie   ~   9   ~   ~   ~   ~
 Delta     ~   6   ~   5   ~   1
 Echo      G   ~   6   4   2   ~
 
-Code written by me is within the DelivA.java, DelivB.java, DelivC.java, and DelivD.java.
+Code written by me is within the DelivA.java, DelivB.java, DelivC.java, and DelivD.java files.
 
 DelivA calculates the number of node, the number of edges, the node(s) with the most outgoing edges, and the edge(s) with the highest and lowest distance.
 DelivB determines the minimum change needed for exact change, implementing both brute force and dynamic programming.
@@ -29,6 +29,7 @@ Select "Run Code" and select the desired Deliverable to run.
 Results print to the output on the compiler.
 
 RUNNING DELIV D:
+
 Run the program. A small window will appear.
 
 Select "Read File" and select a node graph from the file browser.
